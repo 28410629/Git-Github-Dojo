@@ -1,8 +1,6 @@
 # Git and Github Dojo
 This is a workshop for NWU students on the basics of Git and Github, presented by [Coenraad Human](https://github.com/coenraadhuman) and [Morne Venter](https://github.com/MorneVenter).
 
-![awesome-image](https://elc.github.io/blog/images/git-guide-with-visual-interface/git-guide-with-visual-interface-headerimage.png)
-
 # Workshop Programme
 
 *Please ensure that you have git and GitKraken on your Ubuntu system: see these [commands](https://github.com/coenraadhuman/git-github-dojo/blob/master/docs/ubuntu-install-commands.md).*
@@ -31,3 +29,5 @@ This is a workshop for NWU students on the basics of Git and Github, presented b
 
 ## Credit
 *All images that were used in the documentation or other material has a link to their original site, we take no credit for these items as they belong to others.*
+
+![awesome-image](https://elc.github.io/blog/images/git-guide-with-visual-interface/git-guide-with-visual-interface-headerimage.png)
