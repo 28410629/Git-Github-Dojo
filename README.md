@@ -23,8 +23,6 @@ This is a workshop for NWU students on the basics of Git and Github, presented b
 
 ## Gitkraken
 * Gitkraken git client, [link](https://www.gitkraken.com/git-client).
-
-## Good Reads
 * Introductory Guide to Git with Visual Interface, [link](https://elc.github.io/posts/git-guide-with-visual-interface/).
 
 ## Credit
